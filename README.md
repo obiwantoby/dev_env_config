@@ -1,10 +1,9 @@
 # dev_env_config
 Random configuration files for tools that I use
 
-#Windows Terminal
+## Windows Terminal
 
 ```
-
        "defaults":
         {
             // Put settings here that you want to apply to all profiles
@@ -15,4 +14,4 @@ Random configuration files for tools that I use
         },
 ```        
 
-#MS Code
+## MS Code
